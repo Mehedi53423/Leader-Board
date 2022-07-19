@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+}
+
+.container{
+    /* padding: 25px 285px 25px 285px; */
+}
+
+/*--------------
+  Nav Bar Style 
+  --------------*/
+
+nav{
+    background-color: #562EFF;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 285px 0 285px;
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 18px;
+}
+
+nav img{
+    width: 40px;
+    height: 51px;
+}
+
+nav h1{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.userPic{
+    height: 51px;
+    width: 51px;
+}
+
+.logoStyle{
+    display: flex;
+    align-items: center;
+}
